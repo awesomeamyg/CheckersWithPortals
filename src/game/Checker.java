@@ -1,3 +1,4 @@
+package game;
 
 public class Checker extends Gamepiece{
    public boolean is_alive;
