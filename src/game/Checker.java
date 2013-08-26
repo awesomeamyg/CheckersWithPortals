@@ -1,6 +1,6 @@
 package game;
 
-public class Checker extends Gamepiece{
+public class Checker extends GamePiece{
    public boolean is_alive;
    public Player owner;
 

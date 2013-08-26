@@ -1,5 +1,5 @@
 package game;
 
-public class Teleporter extends Gamepiece{
+public class Teleporter extends GamePiece{
 
 }
