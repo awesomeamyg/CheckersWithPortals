@@ -1,6 +1,6 @@
 package game;
 
 public class Player {
-   public GamePiece[] gamepieces;
+   public Checker[] checkers;
    public String name;
 }
